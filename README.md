@@ -3,7 +3,7 @@
 This is a comprehensive guide on cybersecurity and cloud security posture management. This guide first explains concepts of cybersecurity and defence strategies and then it gives information regarding cloud security posture management.
 
 ## Below are the topics that are covered in the first part which is cybersecurity here:
-- Security Posture
+- (https://github.com/sunnyadeshara86/cybersecurity-docs/blob/master/security-posture.md)[Security Posture]
 - Incidence response process
 - What is a cyber strategy
 - Understanding the cybersecurity kill chain
